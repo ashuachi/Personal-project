@@ -1,0 +1,209 @@
+body{
+  color: #40514E;
+  margin:0;
+  font-family: 'Merriweather', serif;
+  position: relative;
+}
+h1{
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+
+
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight:normal;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 100px auto 0 auto;
+  width: 5%;
+
+
+}
+.top-container{
+  text-align: center;
+  background-color: #CAF0F8;
+  position: relative;
+  padding-top:100px;
+}
+.profile{
+  margin:0;
+  text-align: center;
+  position: relative;
+  top: 80px;
+  border: 100px;
+  height: 300px;
+
+}
+.hook{
+  position: relative;
+  left: 160px;
+  top: 80px
+}
+.charminar{
+  position: relative;
+  right: 350px;
+  top: 80px
+}
+.pic{
+  position: relative;
+  left: 100px;
+  bottom: 40px;
+
+}
+.skills{
+  color: #40514E;
+  text-align: center;
+  position: relative;
+  top: 150px;
+
+
+}
+.skill-row {
+  position: relative;
+  top: 30px;
+
+}
+
+.C {
+  position:relative;
+  left: 450px;
+  top: 210px;
+}
+.py{
+  position: relative;
+  left: 250px;
+  top:200px;
+}
+.wd{
+  position: relative;
+  left: 760px;
+  top: 90px;
+}
+.html{
+  position: relative;
+  right:80px;
+  top: 80px;
+}
+.ppt{
+  position: relative;
+  top:220px;
+  right: 290px;
+}
+.ex{
+  position: relative;
+  top:220px;
+  left:230px;
+}
+.autocad{
+  position: relative;
+  top:90px;
+  right: 250px;
+}
+.sql{
+  position: relative;
+  top:70px;
+  right: 200px;
+}
+.js{
+  position: relative;
+  top: 90px;
+  left:0px;
+}
+.java{
+  position:relative;
+  right:250px;
+  top: 90px;
+
+  ;
+}
+.contact-me{
+  text-align: center;
+}
+.middle-container{
+  margin-top: 50px;
+
+}
+ .bottom-container{
+ background-color: #CAF0F8;
+ text-align: center;
+margin: 100px auto 50px auto;
+padding: 50px 0 20px;
+ }
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;}
+
+  .btn {
+    -webkit-border-radius: 19;
+    -moz-border-radius: 19;
+    border-radius: 19px;
+    font-family: Arial;
+    color: #783878;
+    font-size: 21px;
+    background: #2db0ed;
+    padding: 6px 20px 7px 20px;
+    text-decoration: none;
+  }
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background:  #30e3cb;
+  background-image: -webkit-linear-gradient(top,  #30e3cb,  #2bc4ad);
+  background-image: -moz-linear-gradient(top,  #30e3cb,  #2bc4ad);
+  background-image: -ms-linear-gradient(top,  #30e3cb,  #2bc4ad);
+  background-image: -o-linear-gradient(top,  #30e3cb,  #2bc4ad);
+  background-image: linear-gradient(to bottom,  #30e3cb,  #2bc4ad);
+  text-decoration: none;
+
+}
+.footer-link{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  color:#11999E;
+  text-decoration: none;
+  text-decoration-color: #e61515;
+}
+.bottom-container{
+font-family: 'Montserrat', sans-serif;
+  color:#11999E;}
+.footer-link:hover {
+  color:#34394d;
+}
+.copy{
+  color:#34394d;
+  font-size:13px;
+  margin: 20px 0;
+}
